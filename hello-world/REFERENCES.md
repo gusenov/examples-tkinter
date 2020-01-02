@@ -1,0 +1,1 @@
+- [Tkinter Tutorial - Hello World | Delft Stack](https://www.delftstack.com/tutorial/tkinter-tutorial/hello-world/)
