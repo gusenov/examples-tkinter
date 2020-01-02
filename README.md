@@ -1,3 +1,5 @@
 - [Hello, world!](hello-world)
 - Виджеты:
   - [Label](widget-label)
+  - Button
+    - [Пример использования виджета Button для изменения счётчика](widget-button)
