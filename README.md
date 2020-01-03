@@ -3,3 +3,4 @@
   - [Label](widget-label)
   - Button
     - [Пример использования виджета Button для изменения счётчика](widget-button)
+  - [Checkbutton](widget-checkbutton)
