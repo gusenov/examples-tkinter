@@ -1,0 +1,1 @@
+- [Tkinter Tutorial - Entry | Delft Stack](https://www.delftstack.com/tutorial/tkinter-tutorial/tkinter-entry/)

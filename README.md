@@ -7,3 +7,5 @@
   - [Radiobutton](widget-radiobutton)
   - Combobox
     - [Выбор месяца из выпадающего списка](widget-combobox-month)
+  - Entry
+    - [Текстовые поля для ввода страны и города](widget-entry-country-and-city)
