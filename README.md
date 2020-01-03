@@ -5,3 +5,5 @@
     - [Пример использования виджета Button для изменения счётчика](widget-button)
   - [Checkbutton](widget-checkbutton)
   - [Radiobutton](widget-radiobutton)
+  - Combobox
+    - [Выбор месяца из выпадающего списка](widget-combobox-month)
