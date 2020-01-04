@@ -1,0 +1,1 @@
+- [Tkinter Tutorial - Scale | Delft Stack](https://www.delftstack.com/tutorial/tkinter-tutorial/tkinter-scale/)
