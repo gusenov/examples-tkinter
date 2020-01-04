@@ -9,3 +9,5 @@
     - [Выбор месяца из выпадающего списка](widget-combobox-month)
   - Entry
     - [Текстовые поля для ввода страны и города](widget-entry-country-and-city)
+  - Menu
+    - [Пример реализации меню Файл и файловых диалогов](widget-menu-file)
