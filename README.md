@@ -1,6 +1,8 @@
 - [Hello, world!](hello-world)
 - Виджеты:
-  - [Label](widget-label)
+  - Label
+    - [Label](widget-label)
+    - [Реализация статусной строки с помощью виджета Label](label-as-status-bar)
   - Button
     - [Пример использования виджета Button для изменения счётчика](widget-button)
   - [Checkbutton](widget-checkbutton)

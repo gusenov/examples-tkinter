@@ -1,0 +1,1 @@
+- [Tkinter Tutorial - Status Bar | Delft Stack](https://www.delftstack.com/tutorial/tkinter-tutorial/tkinter-status-bar/)
