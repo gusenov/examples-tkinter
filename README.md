@@ -15,3 +15,5 @@
     - [Пример реализации меню Файл и файловых диалогов](widget-menu-file)
   - Scale
     - [Слайдер численных значений](widget-scale)
+  - Scrollbar
+    - [Полоса прокрутки для списка или текстового поля](widget-scrollbar-for-list-or-text)
