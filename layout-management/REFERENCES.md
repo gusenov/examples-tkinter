@@ -1,0 +1,1 @@
+- [Tkinter Tutorial - Layout Management | Delft Stack](https://www.delftstack.com/tutorial/tkinter-tutorial/tkinter-geometry-managers/)

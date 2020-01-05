@@ -20,3 +20,4 @@
 - Окна:
   - Диалоговые:
     - [Окна сообщений](msg-box)
+- [Layout management: pack, grid, place](layout-management)
